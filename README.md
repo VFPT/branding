@@ -1,7 +1,7 @@
 # Studio Branding
 
 ### Logo
-<img src="" width="60%" height="60%" title="Studio Logo">
+<img src="https://github.com/fortiesstudios/branding/blob/main/images/icon/icon.png" width="60%" height="60%" title="Studio Logo">
 
 ### Banners
 - Normal
@@ -13,3 +13,4 @@
 ## Credits
 - [vicvenpet](https://github.com/vicvenpet)
 - [arkrafter](https://github.com/arkrafter)
+- [Fl4sH_FiRE](https://github.com/Lithium00)
