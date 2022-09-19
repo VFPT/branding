@@ -5,10 +5,10 @@
 
 ### Banners
 - Normal
-<img src="https://github.com/fortiesstudios/branding/blob/main/images/banner/icon.png" title="Studio Banner">
+<img src="https://github.com/fortiesstudios/branding/blob/main/images/banner/banner.png" title="Studio Banner">
 
 - Rounded (60px radius)
-<img src="https://github.com/fortiesstudios/branding/blob/main/images/banner/icon.png" title="Studio Banner - Rounded Corners">
+<img src="https://github.com/fortiesstudios/branding/blob/main/images/banner/banner-corner-60px.png" title="Studio Banner - Rounded Corners">
 
 ## Credits
 - [vicvenpet](https://github.com/vicvenpet)
