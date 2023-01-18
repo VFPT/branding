@@ -12,5 +12,5 @@
 
 ## Credits
 - [vicvenpet](https://github.com/vicvenpet)
-- [arkrafter](https://github.com/arkrafter)
+- [coolpuper](https://github.com/coolpuper)
 - [Fl4sH_FiRE](https://github.com/Lithium00)
