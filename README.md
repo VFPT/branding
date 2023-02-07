@@ -14,3 +14,4 @@
 - [vicvenpet](https://github.com/vicvenpet)
 - [coolpuper](https://github.com/coolpuper)
 - [Fl4sH_FiRE](https://github.com/Lithium00)
+- [Tavares](https://github.com/yotavares)
