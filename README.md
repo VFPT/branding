@@ -1,4 +1,4 @@
-# Studio Branding
+# Slash, Inc. Branding
 
 ### Logo
 <img src="https://github.com/fortiesstudios/branding/blob/main/images/icon/icon.png" width="60%" height="60%" title="Studio Logo">
